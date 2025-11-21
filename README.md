@@ -1,4 +1,4 @@
-<img width="1795" height="3024" alt="image" src="https://github.com/user-attachments/assets/d5de6857-3b2e-4935-ac9f-a59d60702748" /><img width="1795" height="3024" alt="image" src="https://github.com/user-attachments/assets/54d3ba85-a138-466e-a21e-2561f8c2aa8d" /># Digital Tachometer Design using Verilog HDL
+# Digital Tachometer Design using Verilog HDL
 
 This repository contains the hardware description language (Verilog HDL) implementation and formal documentation for a **Digital Tachometer** system. The design measures the rotational speed (RPM) of a simulated motor using the **Fixed Gate Time Method**, chosen for its simplicity and high accuracy in digital hardware implementations.
 
